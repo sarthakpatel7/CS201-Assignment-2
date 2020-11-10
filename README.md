@@ -1,3 +1,3 @@
 # CS201-Assignment-2
-q3.py - program file,
- dfa.txt - input file
+DFA_minimization1.py - program file,
+ dfa.xlsx - input file
